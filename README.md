@@ -3,6 +3,11 @@
 
 ## Welcome to Azure Mission-Critical
 
+> [!IMPORTANT]
+> This repository and the reference implementations are no longer actively maintained. While they may still contain valuable information, which can be used for reference in mission-critical workloads, we recommend visiting [Microsoft Learn](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-intro) for the most up-to-date resources and guidance.
+>
+> Thank you for your understanding and support.
+
 Azure Mission-Critical is an open source project that provides a **prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads**. More specifically, this repository contains everything required to understand and implement an "always on" application on Microsoft Azure, and is comprised of the following:
 
 1. **Architectural Guidelines**: cloud-native design methodology to guide readers through the architectural process of building a mature mission-critical application on Microsoft Azure, articulating key design considerations and requisite design decisions along with associated trade-offs.
@@ -13,7 +18,7 @@ Azure Mission-Critical is an open source project that provides a **prescriptive 
 
 ## Azure Mission-Critical | Navigation
 
-- [Introduction | What is Mission-Critical?](https://learn.microsoft.com/en-us/azure/architecture/framework/mission-critical/mission-critical-overview) - Detailed introduction into Mission-Critical, the problem it is intended to solve and the value it can provide.
+- [Introduction | What is Mission-Critical?](https://learn.microsoft.com/azure/architecture/framework/mission-critical/mission-critical-overview) - Detailed introduction into Mission-Critical, the problem it is intended to solve and the value it can provide.
 
 - [Design Methodology | Mission-Critical Architectural Approach](https://learn.microsoft.com/azure/architecture/framework/mission-critical/mission-critical-design-methodology) - Prescriptive guidance aligned to 8 critical design areas guides users to design and build an mission-critical application, outlining a recommended decision process.
 
